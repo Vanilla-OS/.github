@@ -3,4 +3,6 @@
   <img src="https://github.com/Vanilla-OS/assets/blob/main/logo/text/vanilla-logo-mono.png?raw=true#gh-dark-mode-only">
   <p align="center">Taste the GNOME Vanilla experience on Debian with some spice.</p>
   <p align="center">GNOME · Debian · Immutability · Integrated Container</p>
+  <br />
+  <a href="https://it.liberapay.com/fabricators/">Becomes a sponsor</a>
 </div>
