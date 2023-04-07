@@ -4,5 +4,5 @@
   <p align="center">Taste the GNOME Vanilla experience on Debian with some spice.</p>
   <p align="center">GNOME · Debian · Immutability · Integrated Container</p>
   <br />
-  <a href="https://it.liberapay.com/fabricators/">Become a sponsor</a>
+  <a href="https://liberapay.com/fabricators">Become a sponsor</a>
 </div>
