@@ -3,6 +3,7 @@
   <img src="https://github.com/Vanilla-OS/assets/blob/main/logo/text/vanilla-logo-mono.png?raw=true#gh-dark-mode-only">
   <p align="center">Taste the GNOME Vanilla experience on Debian with some spice.</p>
   <p align="center">GNOME · Debian · Immutability · Integrated Container</p>
+  <p align="center"><a href="https://vanillaos.org/code-of-conduct">Code of Conduct</a></p>
   <br />
   💗 Become a sponsor: <a href="https://liberapay.com/fabricators">Liberapay</a> - <a href="https://github.com/sponsors/Vanilla-OS">GitHub Sponsors</a>
 </div>
