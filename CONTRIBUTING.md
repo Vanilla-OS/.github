@@ -62,7 +62,7 @@ The code applied to a patch must* be applied to the `main` branch via [cherry pi
 
 ## Code Quality
 The CI is, generally, going through a SonarQube step to verify the Code Quality applying a [Quality Gate](https://docs.sonarsource.com/sonarqube/latest/user-guide/quality-gates/). At first stage Code Coverage is not enabled but is meant to be in the future.\
-Quality Gate settings can be viewed [here](https://sq.fabricators.ltd/quality_gates/show/Sonar%20way%20-%20No%20CodeCoverage).
+Quality Gate settings can be viewed [here](https://sq.fabricators.ltd/quality_gates/show/Sonar%20way%20-%20No%20CodeCoverage).\
 [Code Smells](https://en.wikipedia.org/wiki/Code_smell) quantity must be kept to a value <50 and maintenance must be performed to reduce them to keep a value of 0.
 
 ## Commit signing
