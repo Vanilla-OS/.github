@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Vanilla-OS/.github/blob/main/profile/cover.png?raw=true#gh-light-mode-only">
-  <img src="https://github.com/Vanilla-OS/.github/blob/main/profile/cover-dark.png?raw=true#gh-dark-mode-only">
+  <img src="https://github.com/Vanilla-OS/.github/blob/main/profile/cover.png#gh-light-mode-only">
+  <img src="https://github.com/Vanilla-OS/.github/blob/main/profile/cover-dark.png#gh-dark-mode-only">
   <p>Vanilla OS is an immutable and atomic Linux operating system with user experience as the main focus.</p>
 </div>
 
