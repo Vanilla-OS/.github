@@ -63,18 +63,18 @@
     "profile_url": "https://github.com/Muqtxdir"
   },
   {
-    "id": 36039861,
-    "name": "lakejason0",
-    "login": "lakejason0",
-    "avatar_url": "https://avatars.githubusercontent.com/u/36039861?v=4",
-    "profile_url": "https://github.com/lakejason0"
-  },
-  {
     "id": 34438160,
     "name": "mt-gitlocalize",
     "login": "mt-gitlocalize",
     "avatar_url": "https://avatars.githubusercontent.com/u/34438160?v=4",
     "profile_url": "https://github.com/mt-gitlocalize"
+  },
+  {
+    "id": 36039861,
+    "name": "lakejason0",
+    "login": "lakejason0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36039861?v=4",
+    "profile_url": "https://github.com/lakejason0"
   },
   {
     "id": 95353984,
@@ -84,18 +84,11 @@
     "profile_url": "https://github.com/EncryptedEasty"
   },
   {
-    "id": 923008,
-    "name": "nicolas",
-    "login": "nclm",
-    "avatar_url": "https://avatars.githubusercontent.com/u/923008?v=4",
-    "profile_url": "https://github.com/nclm"
-  },
-  {
-    "id": 43197,
-    "name": "Luna Jernberg",
-    "login": "bittin",
-    "avatar_url": "https://avatars.githubusercontent.com/u/43197?v=4",
-    "profile_url": "https://github.com/bittin"
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul",
+    "avatar_url": "https://avatars.githubusercontent.com/u/42119227?v=4",
+    "profile_url": "https://github.com/Kaitul"
   },
   {
     "id": 13943260,
@@ -105,11 +98,18 @@
     "profile_url": "https://github.com/flipflop97"
   },
   {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul",
-    "avatar_url": "https://avatars.githubusercontent.com/u/42119227?v=4",
-    "profile_url": "https://github.com/Kaitul"
+    "id": 43197,
+    "name": "Luna Jernberg",
+    "login": "bittin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43197?v=4",
+    "profile_url": "https://github.com/bittin"
+  },
+  {
+    "id": 923008,
+    "name": "nicolas",
+    "login": "nclm",
+    "avatar_url": "https://avatars.githubusercontent.com/u/923008?v=4",
+    "profile_url": "https://github.com/nclm"
   },
   {
     "id": 37634431,
@@ -259,6 +259,13 @@
     "profile_url": "https://github.com/Heus-Sueh"
   },
   {
+    "id": 44101694,
+    "name": "Tau",
+    "login": "taukakao",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44101694?v=4",
+    "profile_url": "https://github.com/taukakao"
+  },
+  {
     "id": 110247388,
     "name": "Gabriel Cozma",
     "login": "GabsEdits",
@@ -271,13 +278,6 @@
     "login": "openarun",
     "avatar_url": "https://avatars.githubusercontent.com/u/5819908?v=4",
     "profile_url": "https://github.com/openarun"
-  },
-  {
-    "id": 44101694,
-    "name": "Tau",
-    "login": "taukakao",
-    "avatar_url": "https://avatars.githubusercontent.com/u/44101694?v=4",
-    "profile_url": "https://github.com/taukakao"
   },
   {
     "id": 62482190,
@@ -434,13 +434,6 @@
     "profile_url": "https://github.com/Murattut"
   },
   {
-    "id": 80379684,
-    "name": "Noah",
-    "login": "noahdotpy",
-    "avatar_url": "https://avatars.githubusercontent.com/u/80379684?v=4",
-    "profile_url": "https://github.com/noahdotpy"
-  },
-  {
     "id": 598882,
     "name": "Luca Di Maio",
     "login": "89luca89",
@@ -463,7 +456,7 @@
   },
   {
     "id": 78281477,
-    "name": "Peter",
+    "name": "devkyee",
     "login": "kyee-rs",
     "avatar_url": "https://avatars.githubusercontent.com/u/78281477?v=4",
     "profile_url": "https://github.com/kyee-rs"
