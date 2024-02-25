@@ -77,13 +77,6 @@
     "profile_url": "https://github.com/mt-gitlocalize"
   },
   {
-    "id": 95353984,
-    "name": "EncryptedEasty",
-    "login": "EncryptedEasty",
-    "avatar_url": "https://avatars.githubusercontent.com/u/95353984?v=4",
-    "profile_url": "https://github.com/EncryptedEasty"
-  },
-  {
     "id": 43197,
     "name": "Luna Jernberg",
     "login": "bittin",
@@ -224,6 +217,13 @@
     "profile_url": "https://github.com/duch3201"
   },
   {
+    "id": 68018116,
+    "name": "Sven",
+    "login": "SKBotNL",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68018116?v=4",
+    "profile_url": "https://github.com/SKBotNL"
+  },
+  {
     "id": 41835930,
     "name": "Joseph Peloquin",
     "login": "SkyWolf369",
@@ -296,9 +296,9 @@
   {
     "id": 69891912,
     "name": "Shubh Sharma",
-    "login": "shubhsharma19",
+    "login": "shubhxg",
     "avatar_url": "https://avatars.githubusercontent.com/u/69891912?v=4",
-    "profile_url": "https://github.com/shubhsharma19"
+    "profile_url": "https://github.com/shubhxg"
   },
   {
     "id": 37492,
@@ -602,11 +602,11 @@
     "profile_url": "https://github.com/TheEvilSkeleton"
   },
   {
-    "id": 114881134,
-    "name": "Bart Gravendeel",
-    "login": "MonsterObserver",
-    "avatar_url": "https://avatars.githubusercontent.com/u/114881134?v=4",
-    "profile_url": "https://github.com/MonsterObserver"
+    "id": 33965649,
+    "name": "Jonas Loos",
+    "login": "JonasLoos",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33965649?v=4",
+    "profile_url": "https://github.com/JonasLoos"
   },
   {
     "id": 62032328,
@@ -616,11 +616,11 @@
     "profile_url": "https://github.com/leoscc"
   },
   {
-    "id": 33965649,
-    "name": "Jonas Loos",
-    "login": "JonasLoos",
-    "avatar_url": "https://avatars.githubusercontent.com/u/33965649?v=4",
-    "profile_url": "https://github.com/JonasLoos"
+    "id": 114881134,
+    "name": "Bart Gravendeel",
+    "login": "MonsterObserver",
+    "avatar_url": "https://avatars.githubusercontent.com/u/114881134?v=4",
+    "profile_url": "https://github.com/MonsterObserver"
   },
   {
     "id": 93224879,
@@ -679,18 +679,18 @@
     "profile_url": "https://github.com/Silenc3IsGold3n"
   },
   {
-    "id": 68018116,
-    "name": "Sven",
-    "login": "SKBotNL",
-    "avatar_url": "https://avatars.githubusercontent.com/u/68018116?v=4",
-    "profile_url": "https://github.com/SKBotNL"
-  },
-  {
     "id": 49965963,
     "name": "Wesley Bertipaglia",
     "login": "wesleybertipaglia",
     "avatar_url": "https://avatars.githubusercontent.com/u/49965963?v=4",
     "profile_url": "https://github.com/wesleybertipaglia"
+  },
+  {
+    "id": 77155297,
+    "name": "David Lapshin",
+    "login": "daudix",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
+    "profile_url": "https://github.com/daudix"
   },
   {
     "id": 91050580,
@@ -747,6 +747,13 @@
     "login": "roxandtol",
     "avatar_url": "https://avatars.githubusercontent.com/u/41841903?v=4",
     "profile_url": "https://github.com/roxandtol"
+  },
+  {
+    "id": 77849131,
+    "name": "czenon1",
+    "login": "czenon1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77849131?v=4",
+    "profile_url": "https://github.com/czenon1"
   },
   {
     "id": 2234449,
@@ -910,6 +917,20 @@
     "profile_url": "https://github.com/Khayasen"
   },
   {
+    "id": 95364273,
+    "name": "Cealica",
+    "login": "Cealica",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95364273?v=4",
+    "profile_url": "https://github.com/Cealica"
+  },
+  {
+    "id": 478564,
+    "name": "Guillaume Hain",
+    "login": "zedtux",
+    "avatar_url": "https://avatars.githubusercontent.com/u/478564?v=4",
+    "profile_url": "https://github.com/zedtux"
+  },
+  {
     "id": 122128828,
     "name": "Jacob Gonzales",
     "login": "jacobgonzales20",
@@ -936,13 +957,6 @@
     "login": "hozza",
     "avatar_url": "https://avatars.githubusercontent.com/u/10520514?v=4",
     "profile_url": "https://github.com/hozza"
-  },
-  {
-    "id": 478564,
-    "name": "Guillaume Hain",
-    "login": "zedtux",
-    "avatar_url": "https://avatars.githubusercontent.com/u/478564?v=4",
-    "profile_url": "https://github.com/zedtux"
   },
   {
     "id": 1036364,
