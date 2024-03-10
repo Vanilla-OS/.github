@@ -91,13 +91,6 @@
     "profile_url": "https://github.com/nclm"
   },
   {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul",
-    "avatar_url": "https://avatars.githubusercontent.com/u/42119227?v=4",
-    "profile_url": "https://github.com/Kaitul"
-  },
-  {
     "id": 13943260,
     "name": "Philip Goto",
     "login": "flipflop97",
@@ -105,53 +98,18 @@
     "profile_url": "https://github.com/flipflop97"
   },
   {
-    "id": 37634431,
-    "name": "Pietro di Caprio",
-    "login": "pietrodicaprio",
-    "avatar_url": "https://avatars.githubusercontent.com/u/37634431?v=4",
-    "profile_url": "https://github.com/pietrodicaprio"
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul",
+    "avatar_url": "https://avatars.githubusercontent.com/u/42119227?v=4",
+    "profile_url": "https://github.com/Kaitul"
   },
   {
-    "id": 55644440,
-    "name": "Juan B",
-    "login": "JnBenites",
-    "avatar_url": "https://avatars.githubusercontent.com/u/55644440?v=4",
-    "profile_url": "https://github.com/JnBenites"
-  },
-  {
-    "id": 61416323,
-    "name": "Serhii Chebanenko",
-    "login": "4e6anenk0",
-    "avatar_url": "https://avatars.githubusercontent.com/u/61416323?v=4",
-    "profile_url": "https://github.com/4e6anenk0"
-  },
-  {
-    "id": 76390419,
-    "name": "supernova",
-    "login": "driedpampas",
-    "avatar_url": "https://avatars.githubusercontent.com/u/76390419?v=4",
-    "profile_url": "https://github.com/driedpampas"
-  },
-  {
-    "id": 16929048,
-    "name": "Hugo Carvalho",
-    "login": "hugok79",
-    "avatar_url": "https://avatars.githubusercontent.com/u/16929048?v=4",
-    "profile_url": "https://github.com/hugok79"
-  },
-  {
-    "id": 114828539,
-    "name": "Henrique Picanço",
-    "login": "henriquepicanco",
-    "avatar_url": "https://avatars.githubusercontent.com/u/114828539?v=4",
-    "profile_url": "https://github.com/henriquepicanco"
-  },
-  {
-    "id": 44802165,
-    "name": "benstone326",
-    "login": "benstone326",
-    "avatar_url": "https://avatars.githubusercontent.com/u/44802165?v=4",
-    "profile_url": "https://github.com/benstone326"
+    "id": 79898595,
+    "name": "LinuxNewbie",
+    "login": "abuhuraira0099",
+    "avatar_url": "https://avatars.githubusercontent.com/u/79898595?v=4",
+    "profile_url": "https://github.com/abuhuraira0099"
   },
   {
     "id": 94297792,
@@ -161,11 +119,53 @@
     "profile_url": "https://github.com/Andrew-Geo"
   },
   {
-    "id": 79898595,
-    "name": "LinuxNewbie",
-    "login": "abuhuraira0099",
-    "avatar_url": "https://avatars.githubusercontent.com/u/79898595?v=4",
-    "profile_url": "https://github.com/abuhuraira0099"
+    "id": 44802165,
+    "name": "benstone326",
+    "login": "benstone326",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44802165?v=4",
+    "profile_url": "https://github.com/benstone326"
+  },
+  {
+    "id": 114828539,
+    "name": "Henrique Picanço",
+    "login": "henriquepicanco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/114828539?v=4",
+    "profile_url": "https://github.com/henriquepicanco"
+  },
+  {
+    "id": 16929048,
+    "name": "Hugo Carvalho",
+    "login": "hugok79",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16929048?v=4",
+    "profile_url": "https://github.com/hugok79"
+  },
+  {
+    "id": 76390419,
+    "name": "supernova",
+    "login": "driedpampas",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76390419?v=4",
+    "profile_url": "https://github.com/driedpampas"
+  },
+  {
+    "id": 61416323,
+    "name": "Serhii Chebanenko",
+    "login": "4e6anenk0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/61416323?v=4",
+    "profile_url": "https://github.com/4e6anenk0"
+  },
+  {
+    "id": 55644440,
+    "name": "Juan B",
+    "login": "JnBenites",
+    "avatar_url": "https://avatars.githubusercontent.com/u/55644440?v=4",
+    "profile_url": "https://github.com/JnBenites"
+  },
+  {
+    "id": 37634431,
+    "name": "Pietro di Caprio",
+    "login": "pietrodicaprio",
+    "avatar_url": "https://avatars.githubusercontent.com/u/37634431?v=4",
+    "profile_url": "https://github.com/pietrodicaprio"
   },
   {
     "id": 218276,
@@ -728,13 +728,6 @@
     "profile_url": "https://github.com/sherichev"
   },
   {
-    "id": 73967801,
-    "name": "Eryk Michalak",
-    "login": "gnu-ewm",
-    "avatar_url": "https://avatars.githubusercontent.com/u/73967801?v=4",
-    "profile_url": "https://github.com/gnu-ewm"
-  },
-  {
     "id": 60216981,
     "name": "Al Capitan",
     "login": "alcapitan",
@@ -764,7 +757,7 @@
   },
   {
     "id": 77849131,
-    "name": "czenon1",
+    "name": "Christopher Zénon",
     "login": "czenon1",
     "avatar_url": "https://avatars.githubusercontent.com/u/77849131?v=4",
     "profile_url": "https://github.com/czenon1"
