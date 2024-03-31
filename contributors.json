@@ -330,7 +330,7 @@
   },
   {
     "id": 47012804,
-    "name": "George Santos",
+    "name": "George Santiago",
     "login": "song-juo",
     "avatar_url": "https://avatars.githubusercontent.com/u/47012804?v=4",
     "profile_url": "https://github.com/song-juo"
@@ -554,10 +554,10 @@
   },
   {
     "id": 75210128,
-    "name": "Maksim Kliazovich",
-    "login": "Kliazovich",
+    "name": "Kapatych",
+    "login": "kapatych-be",
     "avatar_url": "https://avatars.githubusercontent.com/u/75210128?v=4",
-    "profile_url": "https://github.com/Kliazovich"
+    "profile_url": "https://github.com/kapatych-be"
   },
   {
     "id": 33435438,
@@ -910,20 +910,6 @@
     "profile_url": "https://github.com/Khayasen"
   },
   {
-    "id": 95364273,
-    "name": "Cealica",
-    "login": "Cealica",
-    "avatar_url": "https://avatars.githubusercontent.com/u/95364273?v=4",
-    "profile_url": "https://github.com/Cealica"
-  },
-  {
-    "id": 478564,
-    "name": "Guillaume Hain",
-    "login": "zedtux",
-    "avatar_url": "https://avatars.githubusercontent.com/u/478564?v=4",
-    "profile_url": "https://github.com/zedtux"
-  },
-  {
     "id": 122128828,
     "name": "Jacob Gonzales",
     "login": "jacobgonzales20",
@@ -950,6 +936,13 @@
     "login": "hozza",
     "avatar_url": "https://avatars.githubusercontent.com/u/10520514?v=4",
     "profile_url": "https://github.com/hozza"
+  },
+  {
+    "id": 478564,
+    "name": "Guillaume Hain",
+    "login": "zedtux",
+    "avatar_url": "https://avatars.githubusercontent.com/u/478564?v=4",
+    "profile_url": "https://github.com/zedtux"
   },
   {
     "id": 1036364,
