@@ -45,14 +45,29 @@
     "login": "Muqtxdir"
   },
   {
+    "id": 34438160,
+    "name": "mt-gitlocalize",
+    "login": "mt-gitlocalize"
+  },
+  {
     "id": 36039861,
     "name": "lakejason0",
     "login": "lakejason0"
   },
   {
-    "id": 34438160,
-    "name": "mt-gitlocalize",
-    "login": "mt-gitlocalize"
+    "id": 166255312,
+    "name": "Ciro Zullo",
+    "login": "cirzlx"
+  },
+  {
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul"
+  },
+  {
+    "id": 13943260,
+    "name": "Philip Goto",
+    "login": "flipflop97"
   },
   {
     "id": 43197,
@@ -65,49 +80,9 @@
     "login": "nclm"
   },
   {
-    "id": 13943260,
-    "name": "Philip Goto",
-    "login": "flipflop97"
-  },
-  {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul"
-  },
-  {
-    "id": 79898595,
-    "name": "LinuxNewbie",
-    "login": "abuhuraira0099"
-  },
-  {
-    "id": 94297792,
-    "name": "Andrew Geo",
-    "login": "Andrew-Geo"
-  },
-  {
-    "id": 44802165,
-    "name": "benstone326",
-    "login": "benstone326"
-  },
-  {
-    "id": 114828539,
-    "name": "Henrique Picanço",
-    "login": "henriquepicanco"
-  },
-  {
-    "id": 16929048,
-    "name": "Hugo Carvalho",
-    "login": "hugok79"
-  },
-  {
-    "id": 76390419,
-    "name": "supernova",
-    "login": "driedpampas"
-  },
-  {
-    "id": 61416323,
-    "name": "Serhii Chebanenko",
-    "login": "4e6anenk0"
+    "id": 37634431,
+    "name": "Pietro di Caprio",
+    "login": "pietrodicaprio"
   },
   {
     "id": 55644440,
@@ -115,9 +90,39 @@
     "login": "JnBenites"
   },
   {
-    "id": 37634431,
-    "name": "Pietro di Caprio",
-    "login": "pietrodicaprio"
+    "id": 61416323,
+    "name": "Serhii Chebanenko",
+    "login": "4e6anenk0"
+  },
+  {
+    "id": 76390419,
+    "name": "supernova",
+    "login": "driedpampas"
+  },
+  {
+    "id": 16929048,
+    "name": "Hugo Carvalho",
+    "login": "hugok79"
+  },
+  {
+    "id": 114828539,
+    "name": "Henrique Picanço",
+    "login": "henriquepicanco"
+  },
+  {
+    "id": 44802165,
+    "name": "benstone326",
+    "login": "benstone326"
+  },
+  {
+    "id": 94297792,
+    "name": "Andrew Geo",
+    "login": "Andrew-Geo"
+  },
+  {
+    "id": 79898595,
+    "name": "LinuxNewbie",
+    "login": "abuhuraira0099"
   },
   {
     "id": 218276,
@@ -153,11 +158,6 @@
     "id": 56601374,
     "name": "_Ghost_",
     "login": "duch3201"
-  },
-  {
-    "id": 68018116,
-    "name": "Sven",
-    "login": "SKBotNL"
   },
   {
     "id": 41835930,
@@ -431,7 +431,7 @@
   },
   {
     "id": 114881134,
-    "name": "Bart Gravendeel",
+    "name": "Jamie Gravendeel",
     "login": "MonsterObserver"
   },
   {
@@ -483,6 +483,11 @@
     "id": 7948133,
     "name": "Silenc3IsGold3n",
     "login": "Silenc3IsGold3n"
+  },
+  {
+    "id": 68018116,
+    "name": "Sven",
+    "login": "SKBotNL"
   },
   {
     "id": 49965963,
@@ -673,13 +678,6 @@
     "id": 478564,
     "name": "Guillaume Hain",
     "login": "zedtux"
-  },
-  {
-    "id": 478564,
-    "name": "Guillaume Hain",
-    "login": "zedtux",
-    "avatar_url": "https://avatars.githubusercontent.com/u/478564?v=4",
-    "profile_url": "https://github.com/zedtux"
   },
   {
     "id": 1036364,
