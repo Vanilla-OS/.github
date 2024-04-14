@@ -45,29 +45,19 @@
     "login": "Muqtxdir"
   },
   {
-    "id": 34438160,
-    "name": "mt-gitlocalize",
-    "login": "mt-gitlocalize"
-  },
-  {
     "id": 36039861,
     "name": "lakejason0",
     "login": "lakejason0"
   },
   {
+    "id": 34438160,
+    "name": "mt-gitlocalize",
+    "login": "mt-gitlocalize"
+  },
+  {
     "id": 166255312,
     "name": "Ciro Zullo",
     "login": "cirzlx"
-  },
-  {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul"
-  },
-  {
-    "id": 13943260,
-    "name": "Philip Goto",
-    "login": "flipflop97"
   },
   {
     "id": 43197,
@@ -78,6 +68,16 @@
     "id": 923008,
     "name": "nicolas",
     "login": "nclm"
+  },
+  {
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul"
+  },
+  {
+    "id": 13943260,
+    "name": "Philip Goto",
+    "login": "flipflop97"
   },
   {
     "id": 37634431,
@@ -155,19 +155,14 @@
     "login": "Aeases"
   },
   {
-    "id": 56601374,
-    "name": "_Ghost_",
-    "login": "duch3201"
+    "id": 44101694,
+    "name": "Tau",
+    "login": "taukakao"
   },
   {
     "id": 41835930,
     "name": "Joseph Peloquin",
     "login": "SkyWolf369"
-  },
-  {
-    "id": 44101694,
-    "name": "Tau",
-    "login": "taukakao"
   },
   {
     "id": 96554164,
@@ -638,6 +633,11 @@
     "id": 70911321,
     "name": "Mr.Narsus",
     "login": "MrNarsus"
+  },
+  {
+    "id": 56601374,
+    "name": "_Ghost_",
+    "login": "duch3201"
   },
   {
     "id": 31544054,
