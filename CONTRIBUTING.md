@@ -68,7 +68,7 @@ The closure commit should be the one created by the Merge Request, not the one p
 - Code smells (see Code Quality below) should be equal to 0 and solved before merging.
 - For tasks (e.g. clearing temp files, updating a wrong `.gitignore` file) it's allowed to commit using the `cleanup:` tag at the beginning of the commit along with a short description of the activity. Example: \
 `cleanup: Remove wrongly committed log.txt file`.
-- Once a MR is approved and tested, it should only be merged through the `rebase and merge` feature in GitHub.
+- Once a MR is approved and tested, it should only be merged through the "Rebase and merge" feature on GitHub.
 - If deemed necessary, commits should be squashed in the branch directly through `git`, never through GitHub's `squash and merge`, as that leaves a merge commit behind.
 - All `chore` commits should be squashed into the closest major commit (e.g. `fix` or `feat`) before the MR is accepted.
 - If the MR introduces a new feature, any additional `fix` commits should also be squashed into the closest major commit (`feat`) before the MR is accepted.
