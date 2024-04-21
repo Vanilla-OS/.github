@@ -925,7 +925,7 @@
   },
   {
     "id": 32078755,
-    "name": "Fluffy Shark",
+    "name": "Mack",
     "login": "theMackabu",
     "avatar_url": "https://avatars.githubusercontent.com/u/32078755?v=4",
     "profile_url": "https://github.com/theMackabu"
@@ -1043,18 +1043,18 @@
     "profile_url": "https://github.com/hughsie"
   },
   {
-    "id": 1873039,
-    "name": "Rodrigo Moya",
-    "login": "rodrmoya",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1873039?v=4",
-    "profile_url": "https://github.com/rodrmoya"
-  },
-  {
     "id": 876259,
     "name": "Jeremy Bicha",
     "login": "jbicha",
     "avatar_url": "https://avatars.githubusercontent.com/u/876259?v=4",
     "profile_url": "https://github.com/jbicha"
+  },
+  {
+    "id": 1873039,
+    "name": "Rodrigo Moya",
+    "login": "rodrmoya",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1873039?v=4",
+    "profile_url": "https://github.com/rodrmoya"
   },
   {
     "id": 17781538,
@@ -1078,18 +1078,18 @@
     "profile_url": "https://github.com/pksadiq"
   },
   {
-    "id": 13906,
-    "name": "Cosimo Cecchi",
-    "login": "cosimoc",
-    "avatar_url": "https://avatars.githubusercontent.com/u/13906?v=4",
-    "profile_url": "https://github.com/cosimoc"
-  },
-  {
     "id": 1051384,
     "name": "Ondrej Holy",
     "login": "ondrejholy",
     "avatar_url": "https://avatars.githubusercontent.com/u/1051384?v=4",
     "profile_url": "https://github.com/ondrejholy"
+  },
+  {
+    "id": 13906,
+    "name": "Cosimo Cecchi",
+    "login": "cosimoc",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13906?v=4",
+    "profile_url": "https://github.com/cosimoc"
   },
   {
     "id": 2222697,
@@ -1134,13 +1134,6 @@
     "profile_url": "https://github.com/Marv-CZ"
   },
   {
-    "id": 3609611,
-    "name": "Michael Biebl",
-    "login": "mbiebl",
-    "avatar_url": "https://avatars.githubusercontent.com/u/3609611?v=4",
-    "profile_url": "https://github.com/mbiebl"
-  },
-  {
     "id": 4584,
     "name": "Fran Diéguez",
     "login": "frandieguez",
@@ -1148,18 +1141,25 @@
     "profile_url": "https://github.com/frandieguez"
   },
   {
-    "id": 27228204,
-    "name": "tmtfx",
-    "login": "tmtfx",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27228204?v=4",
-    "profile_url": "https://github.com/tmtfx"
-  },
-  {
     "id": 2255859,
     "name": "Yuri Chornoivan",
     "login": "yurchor",
     "avatar_url": "https://avatars.githubusercontent.com/u/2255859?v=4",
     "profile_url": "https://github.com/yurchor"
+  },
+  {
+    "id": 3609611,
+    "name": "Michael Biebl",
+    "login": "mbiebl",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3609611?v=4",
+    "profile_url": "https://github.com/mbiebl"
+  },
+  {
+    "id": 27228204,
+    "name": "tmtfx",
+    "login": "tmtfx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27228204?v=4",
+    "profile_url": "https://github.com/tmtfx"
   },
   {
     "id": 641106,
