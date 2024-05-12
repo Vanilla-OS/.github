@@ -10,7 +10,6 @@ env:
 
 permissions:
   contents: write
-  
 
 jobs:
   update-contributors:
@@ -32,6 +31,7 @@ jobs:
       run: npm run start
 
     - name: Commit and push if it changed
+      continue-on-error: true
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
