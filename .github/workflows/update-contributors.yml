@@ -31,6 +31,11 @@ jobs:
     - name: Run script
       run: npm run start
 
+    - uses: actions/upload-artifact@v4
+      with:
+         name: contributors.json
+         path: contributors.json
+  
     - name: Commit and push if it changed
       if: github.repository == 'Vanilla-OS/.github' && github.ref == 'refs/heads/main'
       continue-on-error: true
