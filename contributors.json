@@ -330,7 +330,7 @@
   },
   {
     "id": 47012804,
-    "name": "George Santiago",
+    "name": "John Doe",
     "login": "song-juo",
     "avatar_url": "https://avatars.githubusercontent.com/u/47012804?v=4",
     "profile_url": "https://github.com/song-juo"
@@ -348,6 +348,13 @@
     "login": "jim3692",
     "avatar_url": "https://avatars.githubusercontent.com/u/31220180?v=4",
     "profile_url": "https://github.com/jim3692"
+  },
+  {
+    "id": 4555064,
+    "name": "guylamar2006",
+    "login": "guylamar2006",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4555064?v=4",
+    "profile_url": "https://github.com/guylamar2006"
   },
   {
     "id": 49699333,
@@ -425,13 +432,6 @@
     "login": "x0x-code",
     "avatar_url": "https://avatars.githubusercontent.com/u/57767907?v=4",
     "profile_url": "https://github.com/x0x-code"
-  },
-  {
-    "id": 18313096,
-    "name": "Peter Rakmanyi",
-    "login": "peterrakmanyi",
-    "avatar_url": "https://avatars.githubusercontent.com/u/18313096?v=4",
-    "profile_url": "https://github.com/peterrakmanyi"
   },
   {
     "id": 598882,
@@ -1036,18 +1036,18 @@
     "profile_url": "https://github.com/dmustieles"
   },
   {
-    "id": 151380,
-    "name": "Richard Hughes",
-    "login": "hughsie",
-    "avatar_url": "https://avatars.githubusercontent.com/u/151380?v=4",
-    "profile_url": "https://github.com/hughsie"
-  },
-  {
     "id": 876259,
     "name": "Jeremy Bicha",
     "login": "jbicha",
     "avatar_url": "https://avatars.githubusercontent.com/u/876259?v=4",
     "profile_url": "https://github.com/jbicha"
+  },
+  {
+    "id": 151380,
+    "name": "Richard Hughes",
+    "login": "hughsie",
+    "avatar_url": "https://avatars.githubusercontent.com/u/151380?v=4",
+    "profile_url": "https://github.com/hughsie"
   },
   {
     "id": 1873039,
@@ -1134,13 +1134,6 @@
     "profile_url": "https://github.com/Marv-CZ"
   },
   {
-    "id": 4584,
-    "name": "Fran Diéguez",
-    "login": "frandieguez",
-    "avatar_url": "https://avatars.githubusercontent.com/u/4584?v=4",
-    "profile_url": "https://github.com/frandieguez"
-  },
-  {
     "id": 2255859,
     "name": "Yuri Chornoivan",
     "login": "yurchor",
@@ -1153,6 +1146,13 @@
     "login": "mbiebl",
     "avatar_url": "https://avatars.githubusercontent.com/u/3609611?v=4",
     "profile_url": "https://github.com/mbiebl"
+  },
+  {
+    "id": 4584,
+    "name": "Fran Diéguez",
+    "login": "frandieguez",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4584?v=4",
+    "profile_url": "https://github.com/frandieguez"
   },
   {
     "id": 27228204,
