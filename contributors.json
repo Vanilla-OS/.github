@@ -84,6 +84,13 @@
     "profile_url": "https://github.com/taukakao"
   },
   {
+    "id": 73386616,
+    "name": "Muhammad Salman",
+    "login": "muhdsalm",
+    "avatar_url": "https://avatars.githubusercontent.com/u/73386616?v=4",
+    "profile_url": "https://github.com/muhdsalm"
+  },
+  {
     "id": 923008,
     "name": "nicolas",
     "login": "nclm",
@@ -96,13 +103,6 @@
     "login": "bittin",
     "avatar_url": "https://avatars.githubusercontent.com/u/43197?v=4",
     "profile_url": "https://github.com/bittin"
-  },
-  {
-    "id": 73386616,
-    "name": "Muhammad Salman",
-    "login": "muhdsalm",
-    "avatar_url": "https://avatars.githubusercontent.com/u/73386616?v=4",
-    "profile_url": "https://github.com/muhdsalm"
   },
   {
     "id": 13943260,
@@ -392,13 +392,6 @@
     "profile_url": "https://github.com/FAlexei"
   },
   {
-    "id": 75210128,
-    "name": "Kapatych",
-    "login": "kapatych-be",
-    "avatar_url": "https://avatars.githubusercontent.com/u/75210128?v=4",
-    "profile_url": "https://github.com/kapatych-be"
-  },
-  {
     "id": 114881134,
     "name": "Jamie Gravendeel",
     "login": "jamiethecat",
@@ -425,6 +418,13 @@
     "login": "x0x-code",
     "avatar_url": "https://avatars.githubusercontent.com/u/57767907?v=4",
     "profile_url": "https://github.com/x0x-code"
+  },
+  {
+    "id": 5367484,
+    "name": "Ruben Horn",
+    "login": "rubenhorn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5367484?v=4",
+    "profile_url": "https://github.com/rubenhorn"
   },
   {
     "id": 598882,
@@ -491,10 +491,10 @@
   },
   {
     "id": 110575082,
-    "name": "Hannor Smith",
-    "login": "Hannor-Smith",
+    "name": "han 🌟",
+    "login": "hannytechnica",
     "avatar_url": "https://avatars.githubusercontent.com/u/110575082?v=4",
-    "profile_url": "https://github.com/Hannor-Smith"
+    "profile_url": "https://github.com/hannytechnica"
   },
   {
     "id": 20419823,
@@ -537,6 +537,13 @@
     "login": "Tyrell04",
     "avatar_url": "https://avatars.githubusercontent.com/u/43107913?v=4",
     "profile_url": "https://github.com/Tyrell04"
+  },
+  {
+    "id": 75210128,
+    "name": "Kapatych",
+    "login": "kapatych-be",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75210128?v=4",
+    "profile_url": "https://github.com/kapatych-be"
   },
   {
     "id": 33435438,
@@ -609,60 +616,25 @@
     "profile_url": "https://github.com/orowith2os"
   },
   {
-    "id": 122628420,
-    "name": "DartDeaDia",
-    "login": "DartDeaDia",
-    "avatar_url": "https://avatars.githubusercontent.com/u/122628420?v=4",
-    "profile_url": "https://github.com/DartDeaDia"
+    "id": 105821181,
+    "name": "vendillah",
+    "login": "vendillah",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105821181?v=4",
+    "profile_url": "https://github.com/vendillah"
   },
   {
-    "id": 34199312,
-    "name": "Isaac Dennis",
-    "login": "IsaacDennis",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34199312?v=4",
-    "profile_url": "https://github.com/IsaacDennis"
+    "id": 59851660,
+    "name": "nellfs",
+    "login": "nellfs",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59851660?v=4",
+    "profile_url": "https://github.com/nellfs"
   },
   {
-    "id": 197515,
-    "name": "josefkelly",
-    "login": "josefkelly",
-    "avatar_url": "https://avatars.githubusercontent.com/u/197515?v=4",
-    "profile_url": "https://github.com/josefkelly"
-  },
-  {
-    "id": 44733677,
-    "name": "Kainoa Kanter",
-    "login": "ThatOneCalculator",
-    "avatar_url": "https://avatars.githubusercontent.com/u/44733677?v=4",
-    "profile_url": "https://github.com/ThatOneCalculator"
-  },
-  {
-    "id": 59121948,
-    "name": "Navaneethan",
-    "login": "FalseDev",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59121948?v=4",
-    "profile_url": "https://github.com/FalseDev"
-  },
-  {
-    "id": 7948133,
-    "name": "Silenc3IsGold3n",
-    "login": "Silenc3IsGold3n",
-    "avatar_url": "https://avatars.githubusercontent.com/u/7948133?v=4",
-    "profile_url": "https://github.com/Silenc3IsGold3n"
-  },
-  {
-    "id": 49965963,
-    "name": "Wesley Bertipaglia",
-    "login": "wesleybertipaglia",
-    "avatar_url": "https://avatars.githubusercontent.com/u/49965963?v=4",
-    "profile_url": "https://github.com/wesleybertipaglia"
-  },
-  {
-    "id": 77155297,
-    "name": "David Lapshin",
-    "login": "daudix",
-    "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
-    "profile_url": "https://github.com/daudix"
+    "id": 101368650,
+    "name": "iamcult",
+    "login": "iamcult",
+    "avatar_url": "https://avatars.githubusercontent.com/u/101368650?v=4",
+    "profile_url": "https://github.com/iamcult"
   },
   {
     "id": 41963787,
@@ -672,11 +644,46 @@
     "profile_url": "https://github.com/Gabrielbsb21"
   },
   {
-    "id": 101368650,
-    "name": "iamcult",
-    "login": "iamcult",
-    "avatar_url": "https://avatars.githubusercontent.com/u/101368650?v=4",
-    "profile_url": "https://github.com/iamcult"
+    "id": 77155297,
+    "name": "David Lapshin",
+    "login": "daudix",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
+    "profile_url": "https://github.com/daudix"
+  },
+  {
+    "id": 49965963,
+    "name": "Wesley Bertipaglia",
+    "login": "wesleybertipaglia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49965963?v=4",
+    "profile_url": "https://github.com/wesleybertipaglia"
+  },
+  {
+    "id": 7948133,
+    "name": "Silenc3IsGold3n",
+    "login": "Silenc3IsGold3n",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7948133?v=4",
+    "profile_url": "https://github.com/Silenc3IsGold3n"
+  },
+  {
+    "id": 59121948,
+    "name": "Navaneethan",
+    "login": "FalseDev",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59121948?v=4",
+    "profile_url": "https://github.com/FalseDev"
+  },
+  {
+    "id": 44733677,
+    "name": "Kainoa Kanter",
+    "login": "ThatOneCalculator",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44733677?v=4",
+    "profile_url": "https://github.com/ThatOneCalculator"
+  },
+  {
+    "id": 197515,
+    "name": "josefkelly",
+    "login": "josefkelly",
+    "avatar_url": "https://avatars.githubusercontent.com/u/197515?v=4",
+    "profile_url": "https://github.com/josefkelly"
   },
   {
     "id": 91050580,
