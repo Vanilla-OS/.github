@@ -21,6 +21,7 @@ While it is similar to merging, porting is the reimplementation from a feature o
 This `vision` branch serves as a base for experimental work, containing new features that could be backported into `dev`. It is a playground for new ideas and innovations that a developer can use for experimental purposes without hurting the development flow in `dev`.
 
 #### Merging Rules
+
 You should not do a direct merge from `vision` to `main`, and neither bring changes from `dev` into `vision`. This means that functionality developed on `vision` should be ported to `dev` instead of being merged directly.
 
 ### Dev
@@ -28,6 +29,7 @@ You should not do a direct merge from `vision` to `main`, and neither bring chan
 The `dev` branch is where active development happens, this includes work that is considered for the next stable release. Features and fixes are done, tested, prepared and put into this branch to be released as stable.
 
 #### Merging Rules
+
 Changes from `dev` should never be directly forwarded to `vision`. Features and fixes from `dev` shall always be merged to `main`, never ported.
 
 ### Main
@@ -35,6 +37,7 @@ Changes from `dev` should never be directly forwarded to `vision`. Features and 
 The `main` branch contains code that is considered stable. Only tested and verified features and fixes are merged here.
 
 #### Merging Rules
+
 Never merge directly from vision into `main`. Only features and fixes in `dev` have to be merged to `main`. Direct commits to `main` are strictly forbidden. All changes must come from merging `dev`.
 
 ## FAQ
