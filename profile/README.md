@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://vanillaos.org/get-involved">Get Involved</a> - <a href="https://vanillaos.org/code-of-conduct">Code of Conduct</a> - <a href="https://github.com/Vanilla-OS/.github/blob/main/CONTRIBUTING.md">Contribution Guidelines</a> - <a href="https://vanillaos.org/get-involved/funding">💗 Become a sponsor</a>
+  <a href="https://vanillaos.org/get-involved">Get Involved</a> - <a href="https://vanillaos.org/code-of-conduct">Code of Conduct</a> - <a href="https://github.com/Vanilla-OS/.github/blob/main/CONTRIBUTING.md">Contribution Guidelines</a> - <a href="https://vanillaos.org/get-involved/funding">💗 Become a sponsor</a> - <a href="https://vanillaos.org/community">Community</a>
 </div>
 
 <br />
