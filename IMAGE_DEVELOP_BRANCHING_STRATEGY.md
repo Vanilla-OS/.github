@@ -1,6 +1,6 @@
 # Vanilla OS Image Development Branching Strategy
 
-Starting on July 24th, we are changing our branching strategy in Vanilla OS for image development. We hereby describe the design of the new branching system, its rules, and procedures for working with the following three branches: `vision`, `dev`, and `main`.
+Starting on July 24th, we are changing our branching strategy in Vanilla OS for image development. We hereby describe the design of the new branching system, its rules, and procedures for working with the following two branches: `vision` and `dev`.
 
 ## Merging vs. porting
 
@@ -22,23 +22,25 @@ This `vision` branch serves as a base for experimental work, containing new feat
 
 #### Merging Rules
 
-You should not do a direct merge from `vision` to `main`, and neither bring changes from `dev` into `vision`. This means that functionality developed on `vision` should be ported to `dev` instead of being merged directly.
+You should not do a direct merge from `vision` to `dev`. This means that functionality developed on `vision` should be ported to `dev` instead of being merged directly.
 
 ### Dev
 
-The `dev` branch is where active development happens, this includes work that is considered for the next stable release. Features and fixes are done, tested, prepared and put into this branch to be released as stable.
+The `dev` branch is the default branch. It's also where active development happens, this includes work that is considered for the next stable release. Features and fixes are done, tested, prepared and put into this branch to be released as stable.
 
 #### Merging Rules
 
-Changes from `dev` should never be directly forwarded to `vision`. Features and fixes from `dev` shall always be merged to `main`, never ported.
+Changes from `dev` should not be merged into `vision`. Instead, `vision` is rebased on top of `dev` whenever sensible.
 
-### Main
+## Versioning
 
-The `main` branch contains code that is considered stable. Only tested and verified features and fixes are merged here.
+### Git Tags
 
-#### Merging Rules
+When the `dev` branch is tested to be stable, a release is performed. This means a git tag in semver format (e.g. "v2.1.3") is added to the tested commit and pushed.
 
-Never merge directly from vision into `main`. Only features and fixes in `dev` have to be merged to `main`. Direct commits to `main` are strictly forbidden. All changes must come from merging `dev`.
+#### Images
+
+The images from the latest tags in `dev` and `vision` get the `:dev` and `:vision` image tags respectively. An image created from a release git tag gets the `:main`, `:<version>` (e.g. "2.1.3") and `:latest` image tags.
 
 ## FAQ
 
@@ -53,7 +55,3 @@ When you begin work on an experimental feature each contributor should create a 
 ### How can I get an experimental feature into the dev branch?
 
 Any experimental feature that has already been deeply tested and is ready to be included in the next development cycle must be ported to `dev`. As a substitute for merge, reimplement the feature from scratch on the current state of `dev`, ensuring it is compatible and consistent with ongoing development. Create a new branch based on `dev` in your fork and re-implement/adapt the functionality. After you've finished the reimplementation, push this branch to your fork and create a pull request to merge it into `dev`, then request a revision. Then the functionality will receive code review and testing in the `dev` branch.
-
-### How are features merged from dev to main?
-
-When a feature is deeply tested in `dev` and ready for release, it must be merged with `main`. If the new version of ABRoot passed all tests and revisions on `dev`, you must provide a pull request to merge it to `main`. This way, you will make sure that only deeply tested stable features join the `main` branch.
