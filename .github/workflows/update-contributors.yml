@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * 0'
   pull_request:
   workflow_dispatch:
-    
+
 env:
   token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,17 +25,22 @@ jobs:
       with:
         node-version: latest
 
+    - name: Setup pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: latest
+
     - name: Install dependencies
-      run: npm install
+      run: pnpm install
 
     - name: Run script
-      run: npm run start
+      run: pnpm start
 
     - uses: actions/upload-artifact@v4
       with:
          name: contributors.json
          path: contributors.json
-  
+
     - name: Commit and push if it changed
       if: github.repository == 'Vanilla-OS/.github' && github.ref == 'refs/heads/main'
       continue-on-error: true
