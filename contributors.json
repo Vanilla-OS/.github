@@ -235,19 +235,24 @@
     "login": "PureTryOut"
   },
   {
-    "id": 96767159,
-    "name": "Notch Apple",
-    "login": "NotchApple1703"
-  },
-  {
     "id": 83867734,
     "name": "D3vil0p3r",
     "login": "D3vil0p3r"
   },
   {
-    "id": 47012804,
-    "name": "biobot",
-    "login": "song-juo"
+    "id": 96767159,
+    "name": "Notch Apple",
+    "login": "NotchApple1703"
+  },
+  {
+    "id": 20207921,
+    "name": "jarred wilson",
+    "login": "jardon"
+  },
+  {
+    "id": 49699333,
+    "name": "dependabot[bot]",
+    "login": "dependabot[bot]"
   },
   {
     "id": 173463839,
@@ -255,9 +260,9 @@
     "login": "niilamagga"
   },
   {
-    "id": 49699333,
-    "name": "dependabot[bot]",
-    "login": "dependabot[bot]"
+    "id": 47012804,
+    "name": "biobot",
+    "login": "song-juo"
   },
   {
     "id": 46299278,
@@ -280,6 +285,11 @@
     "login": "twihno"
   },
   {
+    "id": 8885837,
+    "name": "Aindriú Mac Giolla Eoin",
+    "login": "aindriu80"
+  },
+  {
     "id": 103105829,
     "name": "Kefir2105",
     "login": "Kefir2105"
@@ -290,19 +300,9 @@
     "login": "rhcalderon"
   },
   {
-    "id": 76573761,
-    "name": "muhammadbahaa2001",
-    "login": "muhammadbahaa2001"
-  },
-  {
     "id": 92336100,
     "name": "SpaceGuyBob",
     "login": "spaceguybob"
-  },
-  {
-    "id": 3803259,
-    "name": "Sandeep Nuthalapati",
-    "login": "deepu9"
   },
   {
     "id": 598882,
@@ -658,11 +658,6 @@
     "id": 114881134,
     "name": "Jamie Gravendeel",
     "login": "jamiethecat"
-  },
-  {
-    "id": 122128828,
-    "name": "Jacob Gonzales",
-    "login": "jacobgonzales20"
   },
   {
     "id": 32078755,
