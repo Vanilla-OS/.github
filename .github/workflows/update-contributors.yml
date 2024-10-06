@@ -45,8 +45,8 @@ jobs:
       if: github.repository == 'Vanilla-OS/.github' && github.ref == 'refs/heads/main'
       continue-on-error: true
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
+        git config user.name 'GitHub Action'
+        git config user.email 'action@github.com'
         git add .
-        git commit -m "chore: update contributors list"
+        git commit -m "chore: auto-update contributors list"
         git push
