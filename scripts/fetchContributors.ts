@@ -34,23 +34,28 @@ async function fetchData<T>(url: string): Promise<T> {
 }
 
 async function fetchContributorsData(): Promise<void> {
-  const contributorsMap: Map<string, { id: number; name: string; login: string }> = new Map();
+  const contributorsMap: Map<
+    string,
+    { id: number; name: string; login: string }
+  > = new Map();
 
   try {
     console.log("Fetching organization repositories...");
     const orgReposData = await fetchData<Repo[]>(
-      "https://api.github.com/orgs/Vanilla-OS/repos"
+      "https://api.github.com/orgs/Vanilla-OS/repos",
     );
 
     const contributorPromises = orgReposData.map(async (repo) => {
       console.log(`Getting data for repository ${repo.name}...`);
-      const contributorsData = await fetchData<Contributor[]>(repo.contributors_url);
+      const contributorsData = await fetchData<Contributor[]>(
+        repo.contributors_url,
+      );
 
       const userDetailsPromises = contributorsData.map(async (contributor) => {
         if (!contributorsMap.has(contributor.login)) {
           console.log(`Getting data for the contributor ${contributor.login}`);
           const userDetails = await fetchData<UserDetails>(
-            `https://api.github.com/users/${contributor.login}`
+            `https://api.github.com/users/${contributor.login}`,
           );
 
           contributorsMap.set(contributor.login, {
@@ -68,7 +73,9 @@ async function fetchContributorsData(): Promise<void> {
 
     console.log("Writing contributors data to file...");
     const encoder = new TextEncoder();
-    const data = encoder.encode(JSON.stringify(Array.from(contributorsMap.values()), null, 2));
+    const data = encoder.encode(
+      JSON.stringify(Array.from(contributorsMap.values()), null, 2),
+    );
     await Deno.writeFile("contributors.json", data);
     console.log("Script completed successfully! Check contributors.json file.");
   } catch (error) {
