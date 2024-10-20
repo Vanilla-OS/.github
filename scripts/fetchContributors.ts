@@ -74,7 +74,11 @@ async function fetchContributorsData(): Promise<void> {
     console.log("Writing contributors data to file...");
     const encoder = new TextEncoder();
     const data = encoder.encode(
-      JSON.stringify(Array.from(contributorsMap.values()), null, 2),
+      JSON.stringify(
+        Array.from(contributorsMap.values()).sort((a, b) => a.id - b.id),
+        null,
+        2,
+      ),
     );
     await Deno.writeFile("contributors.json", data);
     console.log("Script completed successfully! Check contributors.json file.");
