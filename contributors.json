@@ -315,11 +315,6 @@
     "login": "JodyGoldberg"
   },
   {
-    "id": 12845347,
-    "name": "Veysel Erden",
-    "login": "veyselerden"
-  },
-  {
     "id": 13512097,
     "name": "Levi Portenier",
     "login": "leviport"
@@ -790,11 +785,6 @@
     "login": "Andrew-Geo"
   },
   {
-    "id": 96164686,
-    "name": "Zane Fitzgerald",
-    "login": "Aeases"
-  },
-  {
     "id": 96554164,
     "name": "cat-master21",
     "login": "cat-master21"
@@ -850,6 +840,11 @@
     "login": "senni-huemwang"
   },
   {
+    "id": 112554159,
+    "name": "MK0R",
+    "login": "MrMK0R"
+  },
+  {
     "id": 114828539,
     "name": "Henrique Picanço",
     "login": "henriquepicanco"
@@ -883,5 +878,10 @@
     "id": 173463839,
     "name": "niilamagga",
     "login": "niilamagga"
+  },
+  {
+    "id": 236532325,
+    "name": "e-michalak",
+    "login": "e-michalak"
   }
 ]
