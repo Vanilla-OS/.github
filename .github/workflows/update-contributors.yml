@@ -28,7 +28,7 @@ jobs:
     - name: Run script
       run: deno run -WNE scripts/fetchContributors.ts
 
-    - uses: actions/upload-artifact@v4
+    - uses: actions/upload-artifact@v5
       with:
          name: contributors.json
          path: contributors.json
