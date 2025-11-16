@@ -55,6 +55,11 @@
     "login": "jordimas"
   },
   {
+    "id": 345675,
+    "name": "Marco Trevisan",
+    "login": "3v1n0"
+  },
+  {
     "id": 365434,
     "name": "Felipe Borges",
     "login": "felipeborges"
@@ -63,11 +68,6 @@
     "id": 387759,
     "name": "Renaud Lepage",
     "login": "cybik"
-  },
-  {
-    "id": 406826,
-    "name": "Yaron Shahrabani",
-    "login": "yarons"
   },
   {
     "id": 478564,
@@ -103,11 +103,6 @@
     "id": 628474,
     "name": "Ettore Atalan",
     "login": "Atalanttore"
-  },
-  {
-    "id": 641106,
-    "name": "aurisc4",
-    "login": "aurisc4"
   },
   {
     "id": 769861,
@@ -160,6 +155,11 @@
     "login": "dmustieles"
   },
   {
+    "id": 1823296,
+    "name": "Didier Roche-Tolomelli",
+    "login": "didrocks"
+  },
+  {
     "id": 1873039,
     "name": "Rodrigo Moya",
     "login": "rodrmoya"
@@ -203,11 +203,6 @@
     "id": 3518204,
     "name": "Georges Basile Stavracas Neto",
     "login": "GeorgesStavracas"
-  },
-  {
-    "id": 3609611,
-    "name": "Michael Biebl",
-    "login": "mbiebl"
   },
   {
     "id": 4068467,
@@ -315,6 +310,11 @@
     "login": "hozza"
   },
   {
+    "id": 10974330,
+    "name": "Sebastien Bacher",
+    "login": "seb128"
+  },
+  {
     "id": 12168585,
     "name": "JodyGoldberg",
     "login": "JodyGoldberg"
@@ -418,11 +418,6 @@
     "id": 31220180,
     "name": "jim3692",
     "login": "jim3692"
-  },
-  {
-    "id": 31544054,
-    "name": "Zhiyuan Li",
-    "login": "zhiyuan1i"
   },
   {
     "id": 32078755,
