@@ -106,3 +106,13 @@ Based on the IDE you use, you may want to search how to configure commit signing
 ## Patching
 
 See [Components Lifecycle](https://vanillaos.org/components-lifecycle) document for more information.
+
+## Use of Generative AI
+
+Vanilla OS adopts the "Responsible Use of Generative AI" policy established by the Debian Project through its [General Resolution of August 2026](https://www.debian.org/vote/2026/vote_002).
+
+Key points include:
+
+- Vanilla OS neither endorses nor prohibits the use of generative AI tools in the development, maintenance, or documentation of software, packaging, documentation, and other media published within the project.
+- All contributions submitted to Vanilla OS, regardless of how and with which tools they were produced, satisfy the same standards of quality, correctness, maintainability, and legal compliance. The use of a generative AI tool does not diminish the contributor's responsibility for the work they submit.
+- We encourage contributors to disclose whether a contribution was made with AI assistance, but do not require them to do so.
